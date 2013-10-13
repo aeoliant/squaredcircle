@@ -1,0 +1,163 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<link href='http://fonts.googleapis.com/css?family=Lato:700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/normalize/2.1.0/normalize.css">
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<style>
+	#colorbox, #cboxOverlay, #cboxWrapper{position:absolute; top:0; left:0; z-index:9999; overflow:hidden;}
+	#cboxOverlay{position:fixed; width:100%; height:100%;}
+	#cboxMiddleLeft, #cboxBottomLeft{clear:left;}
+	#cboxContent{position:relative;}
+	#cboxLoadedContent{overflow:auto; -webkit-overflow-scrolling: touch;}
+	#cboxTitle{margin:0;}
+	#cboxLoadingOverlay, #cboxLoadingGraphic{position:absolute; top:0; left:0; width:100%; height:100%;}
+	#cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow{cursor:pointer;}
+	.cboxPhoto{float:left; margin:auto; border:0; display:block; max-width:none; -ms-interpolation-mode:bicubic;}
+	.cboxIframe{width:100%; height:100%; display:block; border:0;}
+	#colorbox, #cboxContent, #cboxLoadedContent{box-sizing:content-box; -moz-box-sizing:content-box; -webkit-box-sizing:content-box;}
+	#cboxOverlay{background:url(images/overlay.png) repeat 0 0;}
+	#colorbox{outline:0;}
+    #cboxContent{background:#fff; overflow:hidden;}
+        .cboxIframe{background:#fff;}
+        #cboxError{padding:50px; border:1px solid #ccc;}
+        #cboxLoadedContent{margin-bottom:28px;}
+        #cboxTitle{position:absolute; bottom:4px; left:0; text-align:center; width:100%; color:#949494;}
+        #cboxCurrent{position:absolute; bottom:4px; left:58px; color:#949494; display:none !important; }
+        #cboxLoadingOverlay{background:url(images/loading_background.png) no-repeat center center;}
+        #cboxLoadingGraphic{background:url(images/loading.gif) no-repeat center center;}
+
+
+	</style>
+</head>
+<body>
+	<div id="navbar">
+		<div class="container">
+			<a href="#"><h1 id="brand">Squared Circle Postmarks</h1></a>
+			<div id="links">
+				<ul>
+					<li><a href="#">Photo Gallery</a></li>
+					<li><a href="#">Other Docs</a></li>
+					<li><a href="#">Looking For</a></li>
+					<li><a href="/contact-us.html">Contact Us</a></li>
+					<li><a href="#">About</a></li>
+					<li>
+						<a id="langlink" href="#">
+							<img id="flagIT" class="flag" src="img/Italy16.png" height="16px" width="16px"></img>
+							<img id="flagEN" class="flag" src="img/Canada16.png" height="16px" width="16px"></img>
+							<span id="langlabel">Italiano</span>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div id="content" class="container">
+	<h2>Photo Gallery</h2>
+	<a href="doc-img/image001.jpg"><img src="doc-img/image001.jpg" ></img></a>
+	<a href="doc-img/image002.jpg"><img src="doc-img/image002.jpg" ></img></a>
+	<a href="doc-img/image003.jpg"><img src="doc-img/image003.jpg" ></img></a>
+	<a href="doc-img/image004.jpg"><img src="doc-img/image004.jpg" ></img></a>
+	<a href="doc-img/image005.jpg"><img src="doc-img/image005.jpg" ></img></a>
+	<a title="From Curacao" href="doc-img/image006.jpg"><img src="doc-img/image006.jpg" ></img></a>
+	<a href="doc-img/image007.jpg"><img src="doc-img/image007.jpg" ></img></a>
+	<a href="doc-img/image008.jpg"><img src="doc-img/image008.jpg" ></img></a>
+	<a href="doc-img/image009.jpg"><img src="doc-img/image009.jpg" ></img></a>
+	<a href="doc-img/image010.jpg"><img src="doc-img/image010.jpg" ></img></a>
+	<a href="doc-img/image011.jpg"><img src="doc-img/image011.jpg" ></img></a>
+	<a href="doc-img/image012.jpg"><img src="doc-img/image012.jpg" ></img></a>
+	<a href="doc-img/image013.jpg"><img src="doc-img/image013.jpg" ></img></a>
+	<a href="doc-img/image014.jpg"><img src="doc-img/image014.jpg" ></img></a>
+	<a href="doc-img/image015.jpg"><img src="doc-img/image015.jpg" ></img></a>
+	<a href="doc-img/image016.jpg"><img src="doc-img/image016.jpg" ></img></a>
+	<a href="doc-img/image017.jpg"><img src="doc-img/image017.jpg" ></img></a>
+	<a href="doc-img/image018.jpg"><img src="doc-img/image018.jpg" ></img></a>
+	<a href="doc-img/image019.jpg"><img src="doc-img/image019.jpg" ></img></a>
+	<a href="doc-img/image020.jpg"><img src="doc-img/image020.jpg" ></img></a>
+	<a href="doc-img/image021.jpg"><img src="doc-img/image021.jpg" ></img></a>
+	<a href="doc-img/image022.jpg"><img src="doc-img/image022.jpg" ></img></a>
+	<a href="doc-img/image023.jpg"><img src="doc-img/image023.jpg" ></img></a>
+	<a href="doc-img/image024.jpg"><img src="doc-img/image024.jpg" ></img></a>
+	<a href="doc-img/image025.jpg"><img src="doc-img/image025.jpg" ></img></a>
+	<a href="doc-img/image026.jpg"><img src="doc-img/image026.jpg" ></img></a>
+	<a href="doc-img/image027.jpg"><img src="doc-img/image027.jpg" ></img></a>
+	<a href="doc-img/image028.jpg"><img src="doc-img/image028.jpg" ></img></a>
+	<a href="doc-img/image029.jpg"><img src="doc-img/image029.jpg" ></img></a>
+	<a href="doc-img/image030.jpg"><img src="doc-img/image030.jpg" ></img></a>
+	<a href="doc-img/image031.jpg"><img src="doc-img/image031.jpg" ></img></a>
+	<a href="doc-img/image032.jpg"><img src="doc-img/image032.jpg" ></img></a>
+	<a href="doc-img/image033.jpg"><img src="doc-img/image033.jpg" ></img></a>
+	<a href="doc-img/image034.jpg"><img src="doc-img/image034.jpg" ></img></a>
+	<a href="doc-img/image035.jpg"><img src="doc-img/image035.jpg" ></img></a>
+	<a href="doc-img/image036.jpg"><img src="doc-img/image036.jpg" ></img></a>
+	<a href="doc-img/image037.jpg"><img src="doc-img/image037.jpg" ></img></a>
+	<a href="doc-img/image038.jpg"><img src="doc-img/image038.jpg" ></img></a>
+	<a href="doc-img/image039.jpg"><img src="doc-img/image039.jpg" ></img></a>
+	<a href="doc-img/image040.jpg"><img src="doc-img/image040.jpg" ></img></a>
+	<a href="doc-img/image041.jpg"><img src="doc-img/image041.jpg" ></img></a>
+	<a href="doc-img/image042.jpg"><img src="doc-img/image042.jpg" ></img></a>
+	<a href="doc-img/image043.jpg"><img src="doc-img/image043.jpg" ></img></a>
+	<a href="doc-img/image044.jpg"><img src="doc-img/image044.jpg" ></img></a>
+	<a href="doc-img/image045.jpg"><img src="doc-img/image045.jpg" ></img></a>
+	<a href="doc-img/image046.jpg"><img src="doc-img/image046.jpg" ></img></a>
+	<a href="doc-img/image047.jpg"><img src="doc-img/image047.jpg" ></img></a>
+	<a href="doc-img/image048.jpg"><img src="doc-img/image048.jpg" ></img></a>
+	<a href="doc-img/image049.jpg"><img src="doc-img/image049.jpg" ></img></a>
+	<a href="doc-img/image050.jpg"><img src="doc-img/image050.jpg" ></img></a>
+	<a href="doc-img/image051.jpg"><img src="doc-img/image051.jpg" ></img></a>
+	<a href="doc-img/image052.jpg"><img src="doc-img/image052.jpg" ></img></a>
+	<a href="doc-img/image053.jpg"><img src="doc-img/image053.jpg" ></img></a>
+	<a href="doc-img/image054.jpg"><img src="doc-img/image054.jpg" ></img></a>
+	<a href="doc-img/image055.jpg"><img src="doc-img/image055.jpg" ></img></a>
+	<a href="doc-img/image056.jpg"><img src="doc-img/image056.jpg" ></img></a>
+	<a href="doc-img/image057.jpg"><img src="doc-img/image057.jpg" ></img></a>
+	<a href="doc-img/image058.jpg"><img src="doc-img/image058.jpg" ></img></a>
+	<a href="doc-img/image059.jpg"><img src="doc-img/image059.jpg" ></img></a>
+	<a href="doc-img/image060.jpg"><img src="doc-img/image060.jpg" ></img></a>
+	<a href="doc-img/image061.jpg"><img src="doc-img/image061.jpg" ></img></a>
+	<a href="doc-img/image062.jpg"><img src="doc-img/image062.jpg" ></img></a>
+	<a href="doc-img/image063.jpg"><img src="doc-img/image063.jpg" ></img></a>
+	<a href="doc-img/image064.jpg"><img src="doc-img/image064.jpg" ></img></a>
+	<a href="doc-img/image065.jpg"><img src="doc-img/image065.jpg" ></img></a>
+	<a href="doc-img/image066.jpg"><img src="doc-img/image066.jpg" ></img></a>
+	<a href="doc-img/image067.jpg"><img src="doc-img/image067.jpg" ></img></a>
+	<a href="doc-img/image068.jpg"><img src="doc-img/image068.jpg" ></img></a>
+	<a href="doc-img/image069.jpg"><img src="doc-img/image069.jpg" ></img></a>
+	<a href="doc-img/image070.jpg"><img src="doc-img/image070.jpg" ></img></a>
+	<a href="doc-img/image071.jpg"><img src="doc-img/image071.jpg" ></img></a>
+	<a href="doc-img/image072.jpg"><img src="doc-img/image072.jpg" ></img></a>
+	<a href="doc-img/image073.jpg"><img src="doc-img/image073.jpg" ></img></a>
+	<a href="doc-img/image074.jpg"><img src="doc-img/image074.jpg" ></img></a>
+	<a href="doc-img/image075.jpg"><img src="doc-img/image075.jpg" ></img></a>
+	<a href="doc-img/image076.jpg"><img src="doc-img/image076.jpg" ></img></a>
+	<a href="doc-img/image077.jpg"><img src="doc-img/image077.jpg" ></img></a>
+	<a href="doc-img/image078.jpg"><img src="doc-img/image078.jpg" ></img></a>
+	<a href="doc-img/image079.jpg"><img src="doc-img/image079.jpg" ></img></a>
+	<a href="doc-img/image080.jpg"><img src="doc-img/image080.jpg" ></img></a>
+	<a href="doc-img/image081.jpg"><img src="doc-img/image081.jpg" ></img></a>
+	<a href="doc-img/image082.jpg"><img src="doc-img/image082.jpg" ></img></a>
+	<a href="doc-img/image083.jpg"><img src="doc-img/image083.jpg" ></img></a>
+	<a href="doc-img/image084.jpg"><img src="doc-img/image084.jpg" ></img></a>
+	</div>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="jquery.colorbox-min.js"></script>
+	<script>
+	$(document).ready(function() {
+		$("#content a").colorbox({rel:"all", transition:"fade"});
+		$("#content img").each(function() {
+			var img = $(this);
+			var width = img.width();
+			var height = img.height();
+			if (width > height) {
+				img.css("width", 100);
+				img.css("height", "auto");
+			}
+			else {
+				img.css("width", "auto");
+				img.css("height", 100);
+			}
+		});
+	});
+	</script>
+</body>
+</html>

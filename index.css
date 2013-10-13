@@ -1,0 +1,31 @@
+/* Navbar stuff */
+#navbar {top:0;position:fixed;padding:1px;width:100%;background-color: #333333;display:inline-block;height:52px;color:#EEE;font-family:"Lato",sans-serif;}
+#brand {font-size:18pt;font-weight:normal;float:left;line-height: 52px;display: inline; margin:0;}
+.flag{height:16px;width:16px;display:inline-block;vertical-align:middle;margin-bottom:2px;}
+#flagEN{display:none;}
+/* Nav Links */
+#links {float:right;}
+#links li {display:inline;}
+#links a {font-size:12pt;}
+#links li + li:before {content:"|";padding:0 7px;color:#AAA}
+
+/* Responsive stuff*/
+.container {margin-left:auto;margin-right:auto;}
+
+@media (min-width: 1200px) {
+	.container {width:1170px;}
+}
+
+/* Main stuff*/
+#navbar a {text-decoration:none;color:#EEE;}
+#navbar a:hover {text-decoration:none;color:#AAA;}
+#content{margin:54px auto 20px;width:100%;max-width:950px;padding-top:15px;}
+
+#email_body{padding: 5px 10px; width:60%; margin-bottom: 20px;}
+#email_submit{}
+
+#sidebar{top:54px;bottom:0;position:fixed; width:150px; background: #BBB; padding: 0 10px;}
+#sidebar ul {list-style-type: none; padding: 0;margin: 0;}
+#sidebar li {padding: 5px 0;}
+#sidebar a {text-decoration:none;color:#222;}
+#sidebar a:hover {text-decoration:none;color:#666;}
