@@ -10,17 +10,17 @@ An example of changing text would be fixing spelling, or changing words/phrasing
 0. Figure out which file contains the text you want to edit.
 
 Page Title -> filename
-
-homepage -> index.html
-Document -> doc.html
+-----------------------
+homepage      -> index.html
+Document      -> doc.html
 Photo Gallery -> gallery.html
-Other Docs -> other-docs.html
-Looking For -> looking-for.html
-About -> contact-us.html
+Other Docs    -> other-docs.html
+Looking For   -> looking-for.html
+About         -> contact-us.html
 
 1. Open Notepad. Go to File -> Open. A popup will appear. Change the dropdown from "Text Documents (*.txt)" to "All Files". Navigate to the repo root in the popup window. Open the file you want to edit.
 
-2. Find the text/spot you want to change. For example, if I wanted to change the title of the homepage I would search for the text "The Squared Circle Postmarks World Wide". If I wanted to add something to the end of the homepage
+2. Find the text/spot you want to change. For example, if I wanted to change the title of the homepage I would search for the text "The Squared Circle Postmarks World Wide". If I wanted to add something to the end of the homepage, I would search for the end of the last sentence in the paragraph "contribution of all our readers and fellow collectors.".
 
 Notepad has a feature called find that helps with this. Go to Edit -> Find. Type the text you want to find. Click "find next". It should highlight the text you are looking for. If it does not, make sure you spelled everything correctly with the right amount of spaces.
 

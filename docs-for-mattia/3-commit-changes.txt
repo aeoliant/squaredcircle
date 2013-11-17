@@ -6,4 +6,12 @@ These instructions will allow you to upload your changes to the internet, so you
 
 3. Find "squaredcircle". Click the arrow pointing right to open the repo.
 
-4. A summary of your changes should appear to the right (make sure you've saved the files!)
+4. A summary of your changes should appear to the right (make sure you've saved the files!). Make sure the files you edited appear in that list and that the checkboxes are checked (they are checked by default).
+
+5. Where it says "Commit Message" on the left, write a meaningful summary about what you did. For example: "Changed homepage title" or "Added image to gallery". These messages are for yourself, so you can easily see what you changed.
+
+6. Press the "Commit" button. It has a picture of a checkmark in a circle.
+
+7. Press the sync button in the upper right. This uploads your changes to the internet.
+
+8. Allow some time for your changes to appear on squaredcirclepostmarksworldwide.ca. It could take upwards of 10 minutes, but mostly it happens sooner.
