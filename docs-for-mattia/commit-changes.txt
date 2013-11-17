@@ -1,0 +1,9 @@
+These instructions will allow you to upload your changes to the internet, so you can see them when you go to squaredcirclepostmarksworldwide.ca.
+
+1. Open GitHub
+
+2. Under "local" click repositories
+
+3. Find "squaredcircle". Click the arrow pointing right to open the repo.
+
+4. A summary of your changes should appear to the right (make sure you've saved the files!)

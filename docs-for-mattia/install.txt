@@ -1,0 +1,15 @@
+Installation instructions
+
+1. Install GitHub
+	* Navigate to https://windows.github.com/
+	* Click "Download GitHub for Windows"
+	* Follow the instructions to do a default install
+	* You might have to enter your password during this process
+
+2. Open GitHub and download the repository
+	* Sign in
+	* Under "GitHub" (which is on the right) click your name
+	* Click the repository (repo) named "squaredcircle"
+	* Clone the repo
+	* You now have the website at "My Documents/GitHub/squaredcircle"
+	* This location will henceforth be known as the "root" of the repo
