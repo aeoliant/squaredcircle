@@ -115,34 +115,23 @@ div.WordSection1
 					<li><a href="other-docs.html">Other Docs</a></li>
 					<li><a href="looking-for.html">Looking For</a></li>
 					<li><a href="contact-us.html">About</a></li>
-					<li>
-						<a id="langlink" href="#">
-							<img id="flagIT" class="flag" src="img/Italy16.png" height="16px" width="16px"></img>
-							<img id="flagEN" class="flag" src="img/Canada16.png" height="16px" width="16px"></img>
-							<span id="langlabel">Italiano</span>
-						</a>
-					</li>
 				</ul>
 			</div>
-			<!--a href="#">
-				<p id="langlabel">Visualizzare questa pagina in Italiano</p>
-			</a-->
 		</div>
 	</div>
 	<div id="sidebar">
 		<div>
 			<h4>Table of Contents</h4>
 			<ul>
-				<li><a href="#" onclick='window.scrollTo(0,100);return false;'>Introduction</a></li>
-				<li><a href="#" onclick='window.scrollTo(0,500);return false;'>Recommended Links</a></li>
-				<li><a href="#" onclick='window.scrollTo(0,1000);return false;'>References</a></li>
+				<li><a href="#" onclick='document.getElementById("intro").scrollIntoView(false);return false;'>Introduction</a></li>
+				<li><a href="#" onclick='document.getElementById("references").scrollIntoView(true);return false;'>References</a></li>
 			</ul>
 		</div>
 	</div>
 	<div id="content" class="container">
 		<div class=WordSection1>
 
-<p class=MsoNormal><b><span lang=EN-CA>Introduction</span></b></p>
+<p class=MsoNormal><b><span lang=EN-CA id="intro">Introduction</span></b></p>
 
 <p class=MsoNormal><span lang=EN-CA>&nbsp;</span></p>
 
@@ -3167,7 +3156,7 @@ alt="http://www.ilpostalista.it/storia_postale/tondor/68.jpg"></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-CA>&nbsp;</span></p>
 
-<p class=MsoNormal><b><span lang=EN-CA>Bibliography:</span></b></p>
+<p class=MsoNormal><b><span lang=EN-CA id='references'>Bibliography:</span></b></p>
 
 <p class=MsoNormal><span lang=EN-CA>- Crevato-Selvaggi: Il Nuovo Gaggero -
 Catalogo dei bolli tondo- riquadrati del Regno d’Italia - con la collaborazione
@@ -3212,6 +3201,5 @@ Circle cancellations.</span></p>
 
 </div>
 	</div>
-	<script src="index.js"></script> 
 </body>
 </html>
