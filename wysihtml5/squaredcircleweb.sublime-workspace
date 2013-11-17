@@ -1,0 +1,671 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"email",
+				"email_body"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"lan",
+				"langlabelEN"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"col",
+				"colorize"
+			],
+			[
+				"ca",
+				"cards"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"se",
+				"seqindex"
+			],
+			[
+				"sco",
+				"scoreValue"
+			],
+			[
+				"sc",
+				"scoreValue"
+			],
+			[
+				"this",
+				"thisRound"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"card",
+				"card_index"
+			],
+			[
+				"server",
+				"serverpass"
+			],
+			[
+				"Ti",
+				"TickValue"
+			],
+			[
+				"commend",
+				"commendtable"
+			],
+			[
+				"access",
+				"accessTokenregex"
+			],
+			[
+				"fon",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/abedley/dev/squaredcircle/index.html",
+			"settings":
+			{
+				"buffer_size": 145496,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/abedley/dev/squaredcircle/gallery.html",
+			"settings":
+			{
+				"buffer_size": 9669,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/abedley/dev/squaredcircle/contact-us.html",
+			"settings":
+			{
+				"buffer_size": 2330,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/abedley/dev/squaredcircle/looking-for.html",
+			"settings":
+			{
+				"buffer_size": 1678,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/abedley/dev/squaredcircle/other-docs.html",
+			"settings":
+			{
+				"buffer_size": 6131,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4252,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/editor.css",
+			"settings":
+			{
+				"buffer_size": 1313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/stylesheet.css",
+			"settings":
+			{
+				"buffer_size": 6361,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/abedley/dev/squaredcircle/css/stylesheet.css",
+		"/Users/abedley/dev/squaredcircle/css/editor.css",
+		"/Users/abedley/dev/squaredcircle/editor.html",
+		"/Users/abedley/Dropbox/Apps/site44/squaredcircletest.site44.com/lazy2.js",
+		"/Users/abedley/Dropbox/Apps/site44/squaredcircletest.site44.com/lazy.js",
+		"/Users/abedley/Dropbox/Apps/site44/squaredcircletest.site44.com/payload/WorldWide-Squared-Circle-Postmarks-(combined)-final.htm",
+		"/Users/abedley/Dropbox/Apps/site44/squaredcircletest.site44.com/things_to_mention.txt",
+		"/Users/abedley/Desktop/algoa1test.js",
+		"/Users/abedley/Desktop/2algoa1test.js",
+		"/Users/abedley/Downloads/03.xwindows_code/hello.min.cpp",
+		"/Users/abedley/Dropbox/Apps/site44/squaredcircletest.site44.com/index.css",
+		"/Users/abedley/Dropbox/dev/squaredcirclepostmarks/foundation.css",
+		"/Users/abedley/Library/Application Support/Sublime Text 2/Packages/BeautifyRuby/Default (OSX).sublime-keymap",
+		"/Users/abedley/Library/Application Support/Sublime Text 2/Packages/Plist Binary/Default.sublime-keymap",
+		"/Users/abedley/Dropbox/dev/SiblingRivalry/gin_rummy/sort_network/Sort10suit.rb",
+		"/Users/abedley/Dropbox/dev/SiblingRivalry/gin_rummy/sort_network/Sort10.rb",
+		"/Users/abedley/Dropbox/dev/SiblingRivalry/gin_rummy/sort_network/GenerateSortNetwork.rb",
+		"/Users/abedley/Dropbox/dev/SiblingRivalry/gin_rummy/sort_network/sort10.rb",
+		"/Users/abedley/Dropbox/dev/SiblingRivalry/gin_rummy/FiveCardSort.rb",
+		"/Users/abedley/Dropbox/dev/SiblingRivalry/gin_rummy/GenerateSortNetwork.rb",
+		"/Users/abedley/dev/jade/jade.ruby",
+		"/Users/abedley/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/abedley/Downloads/robhawkes-mozilla-festival-92336f2/game.js",
+		"/Users/abedley/Dropbox/dev/NeverEndingONTD/src/content_script.js",
+		"/Users/abedley/Dropbox/dev/NeverEndingONTD/src/manifest.json",
+		"/Users/abedley/Dropbox/dev/NeverEndingONTD/manifest.json",
+		"/Users/abedley/Dropbox/dev/NeverEndingONTD/content.js",
+		"/Users/abedley/Dropbox/Apps/site44/thesuperintendent.site44.com/js/sorttable.js",
+		"/Users/abedley/Dropbox/Apps/site44/thesuperintendent.site44.com/js/superintendent.js",
+		"/Users/abedley/Dropbox/Apps/site44/thesuperintendent.site44.com/index.html",
+		"/Users/abedley/Dropbox/Apps/site44/thesuperintendent.site44.com/css/superintendent.css",
+		"/Users/abedley/Dropbox/Apps/site44/thesuperintendent.site44.com/json/commendation.js",
+		"/Users/abedley/dev/halo4api/metadata.json",
+		"/Users/abedley/dev/halo4api/index2.js",
+		"/Users/abedley/Dropbox/Apps/site44/lolbrary.site44.com/css/lol.css",
+		"/Users/abedley/Dropbox/Apps/site44/lolbrary.site44.com/js/lol.js",
+		"/Users/abedley/Dropbox/Apps/site44/lolbrary.site44.com/index.html",
+		"/Users/abedley/dev/halo4api/login.html",
+		"/Users/abedley/dev/halo4api/index.js",
+		"/Users/abedley/dev/catandice/index.html",
+		"/Users/abedley/dev/blackstone/impress.js",
+		"/Users/abedley/dev/blackstone/index.html",
+		"/Users/abedley/dev/blackstone/love.css",
+		"/Users/abedley/dev/advancewars/app.js",
+		"/Users/abedley/Dropbox/Apps/site44/thestoriesthecoincouldtell.site44.com/css/bootstrap.min.css",
+		"/Users/abedley/Dropbox/Apps/site44/thestoriesthecoincouldtell.site44.com/js/stories.js",
+		"/Users/abedley/Dropbox/Apps/site44/thestoriesthecoincouldtell.site44.com/css/stories.css",
+		"/Users/abedley/Dropbox/Apps/site44/thestoriesthecoincouldtell.site44.com/index.html",
+		"/Users/abedley/Dropbox/lolbrary-lua/JSON.lua",
+		"/Users/abedley/Dropbox/lolbrary-lua/champs.js",
+		"/Users/abedley/Dropbox/lolbrary-lua/lolscraper.lua"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"title=\"this is an image\" ",
+			"briti",
+			"british",
+			"YRU",
+			" ",
+			"W",
+			"[a-z]",
+			"Y",
+			"the",
+			"Q",
+			"T",
+			"Q",
+			"T",
+			" ",
+			"U",
+			"img",
+			"	 ",
+			".*\\n.*\\n",
+			"WorldWide-Squared-Circle-Postmarks-(combined)-final_files",
+			"button",
+			"@media",
+			"img",
+			"swap",
+			"hand",
+			"j",
+			"println",
+			"console.log",
+			"WordStore",
+			"past",
+			"commendations",
+			".loltable",
+			"animation-delay",
+			"story",
+			"Toy",
+			"casablanca",
+			">",
+			"<",
+			"<div class=\"sodatext\">"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"s",
+			"l",
+			" the ",
+			"h",
+			"t",
+			"h",
+			"t",
+			"",
+			"e",
+			"E",
+			"doc-img",
+			"languageButton",
+			"FiveCardSort.swap",
+			"FiveCardSort.hand",
+			"Deli",
+			"#commendtablewrapper"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/abedley/dev/squaredcircle/index.html",
+					"settings":
+					{
+						"buffer_size": 145496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4221,
+								4221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/abedley/dev/squaredcircle/gallery.html",
+					"settings":
+					{
+						"buffer_size": 9669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1940,
+								1954
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/abedley/dev/squaredcircle/contact-us.html",
+					"settings":
+					{
+						"buffer_size": 2330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								505,
+								505
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 275.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/abedley/dev/squaredcircle/looking-for.html",
+					"settings":
+					{
+						"buffer_size": 1678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								440,
+								440
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 80.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/abedley/dev/squaredcircle/other-docs.html",
+					"settings":
+					{
+						"buffer_size": 6131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1955,
+								1955
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 4252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3219,
+								3219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 680.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/editor.css",
+					"settings":
+					{
+						"buffer_size": 1313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "css/stylesheet.css",
+					"settings":
+					{
+						"buffer_size": 6361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5826,
+								5826
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3957.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

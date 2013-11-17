@@ -1,0 +1,39 @@
+This file contains information on how to use the editor.
+
+Bold - Works similarly to Microsoft Word
+
+Italic - Also works similarly to Microsoft Word
+
+Lists - Similar to Microsoft Word. To exit list mode, press enter twice.
+
+Hyperlinks - Highlight the text you want to make into a link. Press the hyperlink button. A textbox should appear. Put the link you want and press OK.
+		
+	Links point to the file name. For example, to link to the Contact Us page, you would put the name of the Contact Us file.
+
+		Link to Contact Us -> /contact-us.html
+		Link to Homepage   -> /index.html
+		Link to Document   -> /doc.html
+
+	To link to an external website, just copy-paste the url.
+
+		Link to Google     -> http://google.ca
+
+Image - To add an image, press the image button. A textbox will appear. Put the location of the image you want and press OK.
+
+	Image links point to the file name. For example, to add an image called Canada16.png that is located in the folder img, we put the file path.
+
+		Canada16 image -> img/Canada16.png
+
+	We can also use pictures on the internet by using the url.
+
+		Google logo -> https://www.google.ca/images/srpr/logo11w.png
+
+	If you use this method, the images will appear full size on the page. If you want them to be resized (like in the photo gallery), see adding-images.txt. 
+
+Headers (H1/H2) - For our purposes, the buttons do the same thing. Select the text you want to make into a title and press h1 or h2.
+
+Colour - This does not work
+
+Dictation - This does not work
+
+</> - This button toggles the view between regular and html

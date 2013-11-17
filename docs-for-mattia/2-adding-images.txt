@@ -1,0 +1,32 @@
+Adding images to the photo gallery/other docs page is difficult in the editor. It is much easier to directly edit the html file.
+
+0. Figure out which file is the one you want to add/remove an image.
+
+Photo Gallery -> gallery.html
+Other Docs    -> other-docs.html
+
+NOTICE: THIS WILL ONLY WORK FOR THESE 2 FILES! To add images to other files, see using-the-editor.txt
+
+1. Open Notepad. Go to File -> Open. A popup will appear. Change the dropdown from "Text Documents (*.txt)" to "All Files". Navigate to the repo root (My Documents/GitHub/squaredcircle) in the popup window. Open the file you want to edit.
+
+2. You should see lines that look like
+
+		<a href="doc-img/image001.jpg"><img src="doc-img/image001.jpg" ></img></a>
+
+   Say you want to add an image named Canada16.png and this image is located in the folder named img. You would add the line:
+
+   		<a href="img/Canada16.png"><img src="img/Canada16.png" ></img></a>
+
+   If you wanted to add a title like "This is a Canada flag" you add a title attribute like so:
+
+   		<a title="This is a Canada flag" href="img/Canada16.png"><img src="img/Canada16.png" ></img></a>
+
+   	If you want to delete an image, just remove the corresponding line.
+
+   	If you want to add a title to an existing image, just add the title attribute like above. The title cannot contain the double quote character ("). The title appears when you click on the image.
+
+   	If you want to add a new section title like "My favourite stamps" add the line
+
+   		<h2>My favourite stamps</h2>
+
+   	All the images below that title will be in that section.

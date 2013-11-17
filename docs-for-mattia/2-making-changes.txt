@@ -1,29 +1,24 @@
-WARNING: Your copy of the website is not what people see on thesquaredcirclepostmarksworldwide.ca. Before users can see your changes you must commit them. See commit-changes.txt
-
-
-#################
-# CHANGING TEXT #
-#################
-
-An example of changing text would be fixing spelling, or changing words/phrasing, or adding text to an existing block of text.
+NOTICE: Your copy of the website is not what people see on thesquaredcirclepostmarksworldwide.ca. Before users can see your changes you must commit them. See commit-changes.txt
 
 0. Figure out which file contains the text you want to edit.
 
 Page Title -> filename
 -----------------------
-homepage      -> index.html
-Document      -> doc.html
-Photo Gallery -> gallery.html
-Other Docs    -> other-docs.html
+Homepage      -> index.html
+Document      -> doc.html (Please see changing-word-doc.txt)
+Photo Gallery -> gallery.html (Please see adding-images.txt)
+Other Docs    -> other-docs.html (Please see adding-images.txt)
 Looking For   -> looking-for.html
 About         -> contact-us.html
 
-1. Open Notepad. Go to File -> Open. A popup will appear. Change the dropdown from "Text Documents (*.txt)" to "All Files". Navigate to the repo root in the popup window. Open the file you want to edit.
+1. Open Notepad. Go to File -> Open. A popup will appear. Change the dropdown from "Text Documents (*.txt)" to "All Files". Navigate to the repo root (My Documents/GitHub/squaredcircle) in the popup window. Open the file you want to edit.
 
-2. Find the text/spot you want to change. For example, if I wanted to change the title of the homepage I would search for the text "The Squared Circle Postmarks World Wide". If I wanted to add something to the end of the homepage, I would search for the end of the last sentence in the paragraph "contribution of all our readers and fellow collectors.".
+2. Open editor.html in an internet browser. Press the button that looks like </>. This button switches the editor view from normal to html. See using-the-editor.txt for more information.
 
-Notepad has a feature called find that helps with this. Go to Edit -> Find. Type the text you want to find. Click "find next". It should highlight the text you are looking for. If it does not, make sure you spelled everything correctly with the right amount of spaces.
+3. Go back to Notepad. Select everything between the lines <!-- BEGIN COPY-PASTE --> <!-- END COPY-PASTE -->. Copy it (using Edit -> Copy or crtl-c) and paste it in the internet browser (using Edit -> Paste or crtl-v). Afterwards, press the button that looks like </>. You should now see your website in the editor.html window.
 
-3. Make the change you want. Save the file.
+4. Make the changes you want.
 
-4. Don't forget! Your changes will not appear on the internet until you commit! see commit-changes.txt
+5. In the editor window, press the button that looks like </>. Select all (Edit -> Select All or crtl-a). Copy and paste the text back into Notepad, between the lines <!-- BEGIN COPY-PASTE --> <!-- END COPY-PASTE -->. Save the file.
+
+6. Don't forget! Your changes will not appear on the internet until you commit! see commit-changes.txt
