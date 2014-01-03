@@ -183,13 +183,10 @@ var wysihtml5ParserRules = {
         },
         "img": {
             "check_attributes": {
-                "width": "numbers",
-                "alt": "alt",
+                "width": "url",
+                "alt": "url",
                 "src": "url",
-                "height": "numbers"
-            },
-            "add_class": {
-                "align": "align_img"
+                "height": "url"
             }
         },
         "rb": {
